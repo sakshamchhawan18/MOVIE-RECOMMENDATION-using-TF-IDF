@@ -1,8 +1,3 @@
-# MOVIE-RECOMMENDATION-using-TF-IDF
-Here's a more visually engaging version of the explanation, suitable for a GitHub README, using emojis and formatting:
-
----
-
 # 🎥 Movie Recommendation System (2024) using TF-IDF
 
 Welcome to the **Movie Recommendation System** project! This repository demonstrates how to build a basic movie recommendation engine using **TF-IDF** and **cosine similarity**. Let's dive into the step-by-step process! 🚀
